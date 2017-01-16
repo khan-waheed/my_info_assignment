@@ -3,3 +3,4 @@ Email: wkhan13@winona.edu
 Major: Computer Science
 Minor: Data Science
 Cell: xxx-xxx-xxxx
+Address: 123 Street, Winona, MN 55987
